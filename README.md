@@ -13,15 +13,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
 This is a project to display a responsive QR code image with a title and description that links to Frontend Mentor page
+
 ### Screenshot
 
 ![Mobile View of my solution](./images/mobile-view.png)
 ![Desktop View of my solution](./images/desktop-view.png)
-
 
 ### Links
 
@@ -29,6 +28,8 @@ This is a project to display a responsive QR code image with a title and descrip
 - Live Site URL: [Live Site](https://qr-component-app.netlify.app/)
 
 ## My process
+
+I built it using just HTML and CSS using flexbox on the layout and adding accessibility tags.
 
 ### Built with
 
@@ -39,10 +40,7 @@ This is a project to display a responsive QR code image with a title and descrip
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
+- I learned about accessibility of websites using alt texts; tags like main, footer; also using rem, em instead of px for accessibility to those who have bad vision.
 
 ## Author
 
@@ -50,9 +48,6 @@ To see how you can add code snippets, see below:
 - Frontend Mentor - [@OluwadaraDaily](https://www.frontendmentor.io/profile/OluwadaraDaily)
 - Twitter - [@OluwadaraDaily](https://www.twitter.com/OluwadaraDaily)
 
-
 ## Acknowledgments
 
 I got some help from [Melvin Aguilar](https://www.frontendmentor.io/profile/MelvinAguilar) on Frontend Mentor with some accessibility issues.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
